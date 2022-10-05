@@ -16,7 +16,4 @@ In deze handleiding worden de stappen die je doorloopt beschreven en ook de denk
 - 3x Jumper Wires
 - 1x RGB LEDstrip Adafruit
 
-![2-100x100-2626122870](https://user-images.githubusercontent.com/90243530/194127386-1a04eac9-2d40-4ba6-974e-08bc01e87ef9.jpg)
-
-
-
+![deck](https://user-images.githubusercontent.com/90243530/194128475-d70fe52e-7043-434e-84ad-316df1349f98.png)
