@@ -14,41 +14,24 @@ Door Gloria Kwako
 
 
 # Inhoudsopgave
-[Hardware-installatie](#Hardware-installatie)
+- [Vereiste-hardwarecomponenten](#Vereiste-hardwarecomponenten)
+- [ToDo-Sensor](#ToDo2-sensor)
+- [ToDo-Telegram](#ToDo-Telegram)
 
-### Hardware-installatie
-Vereiste hardwarecomponenten
+
+
+
+### Vereiste-hardwarecomponenten
 - 1x NodeMCU basado en ESP8266MOD WiFi incorporado
 - 3x Jumper Wires
 - 1x RGB LEDstrip Adafruit
 
-<img src="https://user-images.githubusercontent.com/90243530/194128475-d70fe52e-7043-434e-84ad-316df1349f98.png" width="300" height="300"/>
-
-# Tech: Telegram - Manual
+<img src="https://user-images.githubusercontent.com/90243530/194128475-d70fe52e-7043-434e-84ad-316df1349f98.png" width="300" height="200"/>
 
 
 
-
-
-
-
-# ToDo2-sensor
+# ToDo-Sensor
 Met behulp van deze handleiding kan je zelf een Ledstrip kleur, colorpicker in stellen met Adafruit IO. Dit is een andere library dan Fastled, er bestaan meerdere libraries (software) voor dezelfde hardware. Soms is de ene meer geschikt voor wat jij wil.
-
-In deze handleiding worden de stappen die je doorloopt beschreven en ook de denkfouten. Tijdens het doorlopen van de stappen, worden de volgende aspecten beschreven:
-- Focus op de problemen (daar leer je van 😊) 
-- Doe dit terwijl je de stappen doorloopt 
-- Maak screenshots van fouten
-- Geef verwijzingen naar ALLE gebruikte bronnen
-
-
-## Vereiste hardwarecomponenten
-- 1x NodeMCU basado en ESP8266MOD WiFi incorporado
-- 3x Jumper Wires
-- 1x RGB LEDstrip Adafruit
-
-![deck](https://user-images.githubusercontent.com/90243530/194128475-d70fe52e-7043-434e-84ad-316df1349f98.png)
-
 
 ## Stap 1: Installeer de Arduino IO libraries
 Om de communicatie met Adafruit IO tot stand te kunnen brengen, moeten we wat extra libraries installeren met behulp van de Arduino.
@@ -93,6 +76,7 @@ De serial monitor moet op 115200 baud staan, om verbinding te kunnen maken. Maar
 <img width="948" alt="Schermafbeelding 2022-10-05 om 21 20 44" src="https://user-images.githubusercontent.com/90243530/194144460-a0fa65fb-217d-4967-b1d6-02d3a838ed88.png">
 
 
+# ToDo-Telegram 
 
 
 
