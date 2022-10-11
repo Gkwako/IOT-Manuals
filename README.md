@@ -12,18 +12,15 @@ Door Gloria Kwako
 05-10-2022
 
 
-
+#
+#
 # Inhoudsopgave
-[Vereiste-hardwarecomponenten](#Vereiste-hardwarecomponenten)
-.
-.
-.
+- [Vereiste-hardwarecomponenten](#Vereiste-hardwarecomponenten)
 - [ToDo-Sensor](#ToDo2-sensor)
 - [ToDo-Telegram](#ToDo-Telegram)
 
-
-
-
+#
+#
 ### Vereiste-hardwarecomponenten
 - 1x NodeMCU basado en ESP8266MOD WiFi incorporado
 - 3x Jumper Wires
@@ -78,9 +75,12 @@ De serial monitor moet op 115200 baud staan, om verbinding te kunnen maken. Maar
 
 <img width="948" alt="Schermafbeelding 2022-10-05 om 21 20 44" src="https://user-images.githubusercontent.com/90243530/194144460-a0fa65fb-217d-4967-b1d6-02d3a838ed88.png">
 
-
+#
+#
 # ToDo-Telegram 
+Met behulp van deze handleiding kan je via Telegram je leds besturen.
 
+## Stap 1: 
 
 
 
