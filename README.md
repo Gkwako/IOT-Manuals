@@ -14,7 +14,10 @@ Door Gloria Kwako
 
 
 # Inhoudsopgave
-- [Vereiste-hardwarecomponenten](#Vereiste-hardwarecomponenten)
+[Vereiste-hardwarecomponenten](#Vereiste-hardwarecomponenten)
+.
+.
+.
 - [ToDo-Sensor](#ToDo2-sensor)
 - [ToDo-Telegram](#ToDo-Telegram)
 
