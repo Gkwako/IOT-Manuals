@@ -1,3 +1,6 @@
+# Inhoudsopgave
+[Introductie](Introductie)
+
 # Tech: Telegram - Manual
 
 ## Introductie
