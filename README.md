@@ -19,9 +19,10 @@ Door Gloria Kwako
 - [ToDo-Sensor](#ToDo2-sensor)
 - [ToDo-Telegram](#ToDo-Telegram)
 
+
 #
 #
-### Vereiste-hardwarecomponenten
+# Vereiste-hardwarecomponenten
 - 1x NodeMCU basado en ESP8266MOD WiFi incorporado
 - 3x Jumper Wires
 - 1x RGB LEDstrip Adafruit
@@ -29,7 +30,8 @@ Door Gloria Kwako
 <img src="https://user-images.githubusercontent.com/90243530/194128475-d70fe52e-7043-434e-84ad-316df1349f98.png" width="300" height="200"/>
 
 
-
+#
+#
 # ToDo-Sensor
 Met behulp van deze handleiding kan je zelf een Ledstrip kleur, colorpicker in stellen met Adafruit IO. Dit is een andere library dan Fastled, er bestaan meerdere libraries (software) voor dezelfde hardware. Soms is de ene meer geschikt voor wat jij wil.
 
@@ -74,6 +76,7 @@ Bij stap 4 is het belangrijk om de juiste gegevens in te vullen.
 De serial monitor moet op 115200 baud staan, om verbinding te kunnen maken. Maar het lijkt erop verbinding maken niet lukt. Dit kan liggen aan de internet verbinding. 
 
 <img width="948" alt="Schermafbeelding 2022-10-05 om 21 20 44" src="https://user-images.githubusercontent.com/90243530/194144460-a0fa65fb-217d-4967-b1d6-02d3a838ed88.png">
+
 
 #
 #
