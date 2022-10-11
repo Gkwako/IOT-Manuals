@@ -1,3 +1,14 @@
+# Tech: Telegram - Manual
+
+## Introductie
+
+
+
+
+
+
+
+
 # ToDo2-sensor
 Door Gloria Kwako
 05-10-2022
