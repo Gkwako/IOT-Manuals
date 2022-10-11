@@ -1,5 +1,6 @@
+Door Gloria Kwako 05-10-2022
 # Manual/Handleiding
-<img src="https://user-images.githubusercontent.com/90243530/195143365-0f456411-6fc3-4781-8652-05689574f92a.png" width="1000" height="300"/>
+<img src="https://user-images.githubusercontent.com/90243530/195143365-0f456411-6fc3-4781-8652-05689574f92a.png" width="1000" height="270"/>
 
 Met behulp van deze handleiding worden de stappen die je doorloopt beschreven en ook worden de eventuele denkfouten benoemt. 
 Tijdens het doorlopen van de stappen, worden de volgende aspecten beschreven:
@@ -8,17 +9,12 @@ Tijdens het doorlopen van de stappen, worden de volgende aspecten beschreven:
 - Maak screenshots van fouten
 - Geef verwijzingen naar ALLE gebruikte bronnen
 
-Door Gloria Kwako
-05-10-2022
-
-
 #
 #
 # Inhoudsopgave
 - [Vereiste-hardwarecomponenten](#Vereiste-hardwarecomponenten)
 - [ToDo-Sensor](#ToDo2-sensor)
 - [ToDo-Telegram](#ToDo-Telegram)
-
 
 #
 #
