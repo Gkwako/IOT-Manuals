@@ -4,8 +4,9 @@ Door Gloria Kwako
 05-10-2022
 
 Met behulp van deze handleiding worden de stappen die je doorloopt beschreven en ook worden de eventuele denkfouten benoemt. 
+＜img src="(https://user-images.githubusercontent.com/90243530/195138774-90dcee22-d8ca-4715-9729-7ef02fafb889.jpg)" width="500" height="300"＞
 
-![user-manual-icon-flat-style-vector-26240294](https://user-images.githubusercontent.com/90243530/195138774-90dcee22-d8ca-4715-9729-7ef02fafb889.jpg)
+
 
 
 # Inhoudsopgave
