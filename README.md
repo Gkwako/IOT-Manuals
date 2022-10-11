@@ -9,7 +9,7 @@ Met behulp van deze handleiding worden de stappen die je doorloopt beschreven en
 ![user-manual-icon-flat-style-vector-26240294](https://user-images.githubusercontent.com/90243530/195140645-af0543cd-3e4c-4d69-8e80-ae91333ac952.jpg | width=100)
 
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/90243530/195140645-af0543cd-3e4c-4d69-8e80-ae91333ac952.jpg)" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/90243530/195140645-af0543cd-3e4c-4d69-8e80-ae91333ac952.jpg | width=100" width="200" height="400" />
 
 # Inhoudsopgave
 [Introductie](#Introductie)
