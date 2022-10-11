@@ -13,8 +13,8 @@ Tijdens het doorlopen van de stappen, worden de volgende aspecten beschreven:
 #
 # Inhoudsopgave
 - [Vereiste-hardwarecomponenten](#Vereiste-hardwarecomponenten)
-- [ToDo-Sensor](#ToDo2-sensor)
 - [ToDo-Telegram](#ToDo-Telegram)
+- [ToDo-Sensor](#ToDo2-sensor)
 
 #
 #
@@ -24,6 +24,64 @@ Tijdens het doorlopen van de stappen, worden de volgende aspecten beschreven:
 - 1x RGB LEDstrip Adafruit
 
 <img src="https://user-images.githubusercontent.com/90243530/194128475-d70fe52e-7043-434e-84ad-316df1349f98.png" width="300" height="200"/>
+
+#
+#
+# ToDo-Telegram 
+Deze handleiding laat zien hoe u de ESP32 of ESP8266 NodeMCU GPIO's van overal ter wereld kunt bedienen met Telegram.
+Met behulp van deze handleiding weet je hoe met Telegram de NodeMCU basado kan bedienden. 
+
+## Stap 1: Een Telegram-bot maken 
+Om een telegram-bot te maken moeten we eerst Tellegram op de telefoon installeren. Vervolgens zoek je "Bothfather" om daar je nieuwe bot aan te maken, volg de instructies van de bot.
+
+
+<img src="https://user-images.githubusercontent.com/90243530/195173203-8c72e4d6-71f4-4e08-b5b6-510ad4416040.png" width="400" height="400"/>
+
+<img src="https://user-images.githubusercontent.com/90243530/195173290-e9beef84-3310-4007-bddb-8ce6fef04b6f.PNG" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/90243530/195174028-bd046ecb-37c4-4d20-9910-5526e45adbab.PNG" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/90243530/195174086-64e69137-8582-4b78-9cdc-e15df4c1ca45.PNG" width="200" height="400"/>
+
+
+
+
+## Stap 2: Telegram-gebruikers-ID
+Een Telegram ID is handig wanneer de telegrambot een bericht ontvangt, kan de ESP controleren of de afzender-ID overeenkomt met jouw gebruikers-ID en het bericht afhandelen of negeren. Zoek IDBot en voer "/getid, bewaar de ID.
+
+<img src="https://user-images.githubusercontent.com/90243530/195174184-a2ae1b7c-fc0d-4190-b9af-c81d80745f15.PNG" width="400" height="400"/>
+
+
+## Stap 3: Telegram Bot-bibliotheek
+Om verbinding te maken met Telegram bot en Arduino, gebruiken we de Universal Telegram Bot Library. Installeer https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/archive/master.zip. 
+Ga naar Sketch > Bibliotheek opnemen > ZIP-bibliotheek toevoegen...
+Voeg de bibliotheek toe die je zojuist hebt gedownload.
+
+## Stap 4: ArduinoJson-bibliotheek
+<img src="https://user-images.githubusercontent.com/90243530/195180741-e7f166ef-7e71-4a4f-af52-bce709f55bd9.png" width="800" height="300"/>
+
+
+
+<img src="" width="300" height="200"/>
+
+
+## Stap 5: Hoe de code werkt
+Begin met het importeren van de benodigde bibliotheken.
+<img src="https://user-images.githubusercontent.com/90243530/195183280-990b87d3-f939-4e58-8f28-3b8f4079b3a9.png" width="600" height="200"/>
+
+## Stap 6: Netwerkreferenties
+Voer uw netwerkreferenties in de volgende variabelen in.
+
+<img src="https://user-images.githubusercontent.com/90243530/195183584-7b0d1e5f-a0c3-4049-bbbb-133d74c96749.png" width="600" height="200"/>
+
+
+
+
+
+
+
+
+
+
+
 
 
 #
@@ -74,12 +132,7 @@ De serial monitor moet op 115200 baud staan, om verbinding te kunnen maken. Maar
 <img width="948" alt="Schermafbeelding 2022-10-05 om 21 20 44" src="https://user-images.githubusercontent.com/90243530/194144460-a0fa65fb-217d-4967-b1d6-02d3a838ed88.png">
 
 
-#
-#
-# ToDo-Telegram 
-Met behulp van deze handleiding kan je via Telegram je leds besturen.
 
-## Stap 1: 
 
 
 
