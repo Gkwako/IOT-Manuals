@@ -5,7 +5,7 @@ Door Gloria Kwako
 
 Met behulp van deze handleiding worden de stappen die je doorloopt beschreven en ook worden de eventuele denkfouten benoemt. 
 
-<img src="https://user-images.githubusercontent.com/90243530/195140645-af0543cd-3e4c-4d69-8e80-ae91333ac952.jpg" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/90243530/195142223-e86aeb39-5c34-4dcb-9d38-f68ad87697d4.jpg" width="600" height="600"/>
 
 # Inhoudsopgave
 [Introductie](#Introductie)
