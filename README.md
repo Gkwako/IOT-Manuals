@@ -1,20 +1,30 @@
 # Manual/Handleiding
+<img src="https://user-images.githubusercontent.com/90243530/195143365-0f456411-6fc3-4781-8652-05689574f92a.png" width="1000" height="300"/>
+
+Met behulp van deze handleiding worden de stappen die je doorloopt beschreven en ook worden de eventuele denkfouten benoemt. 
+Tijdens het doorlopen van de stappen, worden de volgende aspecten beschreven:
+- Focus op de problemen
+- Doe dit terwijl je de stappen doorloopt 
+- Maak screenshots van fouten
+- Geef verwijzingen naar ALLE gebruikte bronnen
 
 Door Gloria Kwako
 05-10-2022
 
-Met behulp van deze handleiding worden de stappen die je doorloopt beschreven en ook worden de eventuele denkfouten benoemt. 
-
-<img src="https://user-images.githubusercontent.com/90243530/195143365-0f456411-6fc3-4781-8652-05689574f92a.png" width="800" height="800"/>
 
 
 # Inhoudsopgave
-[Introductie](#Introductie)
+[Installatie](#Installatie)
+
+### Installatie
+Vereiste hardwarecomponenten
+- 1x NodeMCU basado en ESP8266MOD WiFi incorporado
+- 3x Jumper Wires
+- 1x RGB LEDstrip Adafruit
+
+<img src="https://user-images.githubusercontent.com/90243530/194128475-d70fe52e-7043-434e-84ad-316df1349f98.png" width="300" height="300"/>
 
 # Tech: Telegram - Manual
-
-## Introductie
-
 
 
 
