@@ -1,5 +1,5 @@
 # Inhoudsopgave
-[Introductie](Introductie)
+[Introductie](#Introductie)
 
 # Tech: Telegram - Manual
 
