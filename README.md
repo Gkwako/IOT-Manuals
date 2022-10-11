@@ -16,7 +16,7 @@
 Door Gloria Kwako
 05-10-2022
 
-## Introductie
+### Introductie
 Met behulp van deze handleiding kan je zelf een Ledstrip kleur, colorpicker in stellen met Adafruit IO. Dit is een andere library dan Fastled, er bestaan meerdere libraries (software) voor dezelfde hardware. Soms is de ene meer geschikt voor wat jij wil.
 
 In deze handleiding worden de stappen die je doorloopt beschreven en ook de denkfouten. Tijdens het doorlopen van de stappen, worden de volgende aspecten beschreven:
