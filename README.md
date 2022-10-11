@@ -14,9 +14,9 @@ Door Gloria Kwako
 
 
 # Inhoudsopgave
-[Installatie](#Installatie)
+[Hardware-installatie](#Hardware-installatie)
 
-### Installatie
+### Hardware-installatie
 Vereiste hardwarecomponenten
 - 1x NodeMCU basado en ESP8266MOD WiFi incorporado
 - 3x Jumper Wires
