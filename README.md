@@ -37,8 +37,7 @@ Om een telegram-bot te maken moeten we eerst Tellegram op de telefoon installere
 
 <img src="https://user-images.githubusercontent.com/90243530/195173203-8c72e4d6-71f4-4e08-b5b6-510ad4416040.png" width="400" height="400"/>
 
-<img src="https://user-images.githubusercontent.com/90243530/195173290-e9beef84-3310-4007-bddb-8ce6fef04b6f.PNG" width="200" height="400"/>
-<img src="https://user-images.githubusercontent.com/90243530/195174028-bd046ecb-37c4-4d20-9910-5526e45adbab.PNG" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/90243530/195173290-e9beef84-3310-4007-bddb-8ce6fef04b6f.PNG" width="200" height="400"/> <img src="https://user-images.githubusercontent.com/90243530/195174028-bd046ecb-37c4-4d20-9910-5526e45adbab.PNG" width="200" height="400"/>
 <img src="https://user-images.githubusercontent.com/90243530/195174086-64e69137-8582-4b78-9cdc-e15df4c1ca45.PNG" width="200" height="400"/>
 
 
