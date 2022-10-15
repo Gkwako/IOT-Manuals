@@ -13,8 +13,9 @@ Tijdens het doorlopen van de stappen, worden de volgende aspecten beschreven:
 #
 # Inhoudsopgave
 - [Vereiste-hardwarecomponenten](#Vereiste-hardwarecomponenten)
+- [ToDo-Connect](#ToDo-connect)
 - [ToDo-Telegram](#ToDo-Telegram)
-- [ToDo-Sensor](#ToDo2-sensor)
+- [ToDo-Sensor](#ToDo-sensor)
 
 #
 #
@@ -24,6 +25,20 @@ Tijdens het doorlopen van de stappen, worden de volgende aspecten beschreven:
 - 1x RGB LEDstrip Adafruit
 
 <img src="https://user-images.githubusercontent.com/90243530/194128475-d70fe52e-7043-434e-84ad-316df1349f98.png" width="300" height="200"/>
+
+
+
+
+#
+#
+# ToDo-connect
+Deze handleiding helpt je iets van de ene NodeMCU naar de andere te sturen (via internet).
+
+<img src="https://user-images.githubusercontent.com/90243530/195593266-371e9663-1aad-417c-ad28-a53b34b37a2e.png" width="500" height="300"/> <img src="https://user-images.githubusercontent.com/90243530/195593504-644e0520-a0e4-4b99-ae76-66b5d127242c.png" width="500" height="300"/>
+
+Samen met Noor hebben wij onze 
+
+
 
 #
 #
@@ -55,10 +70,6 @@ Voeg de bibliotheek toe die je zojuist hebt gedownload.
 <img src="https://user-images.githubusercontent.com/90243530/195180741-e7f166ef-7e71-4a4f-af52-bce709f55bd9.png" width="800" height="300"/>
 
 
-
-<img src="" width="300" height="200"/>
-
-
 ## Stap 5: Hoe de code werkt
 Begin met het importeren van de benodigde bibliotheken.
 <img src="https://user-images.githubusercontent.com/90243530/195183280-990b87d3-f939-4e58-8f28-3b8f4079b3a9.png" width="600" height="200"/>
@@ -67,14 +78,6 @@ Begin met het importeren van de benodigde bibliotheken.
 Voer uw netwerkreferenties in de volgende variabelen in.
 
 <img src="https://user-images.githubusercontent.com/90243530/195183584-7b0d1e5f-a0c3-4049-bbbb-133d74c96749.png" width="600" height="200"/>
-
-
-
-
-
-
-
-
 
 
 
