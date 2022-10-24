@@ -36,7 +36,7 @@ Deze handleiding helpt je iets van de ene NodeMCU naar de andere te sturen (via 
 
 <img src="https://user-images.githubusercontent.com/90243530/195593266-371e9663-1aad-417c-ad28-a53b34b37a2e.png" width="500" height="300"/> <img src="https://user-images.githubusercontent.com/90243530/195593504-644e0520-a0e4-4b99-ae76-66b5d127242c.png" width="500" height="300"/>
 
-Samen met Noor hebben wij onze 
+Samen met Noor hebben wij onze Arduino proberen te verbinden, het is ons gelukt om data te versturen naar adafruit en dit te delen met Noor. Noor kan mijn data zien door het te delen. Alleen was het niet mogelijk om via Arduino de data te delen.
 
 
 
